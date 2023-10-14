@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 10 16:07:12 2020
 
-@author: tsoyg
-"""
 import time
 from skimage import io
 from skimage.color import rgb2gray
